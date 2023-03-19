@@ -1,1 +1,55 @@
-hi
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CV Fenenko Mariia</title>
+  </head>
+  <body>
+    <h1>Fenenko Mariia</h1>
+
+    <h2>
+      <img
+        src="https://scontent.fiev11-1.fna.fbcdn.net/v/t39.30808-6/255046743_2419780514821525_7425328310856956491_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7kW4SJR7clgAX81Spw8&_nc_ht=scontent.fiev11-1.fna&oh=00_AfBxqo4wjZLqcpbRdnlI1koOtX8jeiWyjnzbNAIH7c1etg&oe=63BCE67E"
+      />
+    </h2>
+
+    <p>Junior Frontend Developer</p>
+
+    <h3>
+      <strong>Work Experience</strong>
+    </h3>
+
+    <dl>
+      <dt>
+        <li>
+          <strong> 2019 - present </strong> Credit specialist in
+          <a href="https://www.samsung.com/ua/">SAMSUNG ELECTRONICS UKRAINE</a>
+        </li>
+      </dt>
+      <dd>Issued inoices</dd>
+    </dl>
+
+    <h3>
+      <strong>Skills:</strong>
+    </h3>
+
+    <ul>
+      <li>SAP</li>
+      <li>M.E.Doc</li>
+      <li>Microsoft Excel</li>
+      <li>Internet Banking</li>
+    </ul>21:51 05.01.2023
+
+    <h3>
+      <strong>Achievements:</strong>
+    </h3>
+
+    <ol>
+      <li>Google Sheets Genius Space</li>
+      <li>Negotiations with internal customers</li>
+      <li>Excel work skills</li>
+      <li>Basics of creating presentations and Power Point Tools</li>
+    </ol>
+  </body>
+</html>
+
